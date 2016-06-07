@@ -16,7 +16,7 @@
     "jquery": "^2.2.1",
     "jsdom": "^8.1.0",
     "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0"
+    "webpack-dev-server": "^1.14.0",
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
